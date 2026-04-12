@@ -102,7 +102,6 @@
 | 8 | 12 Jan 2026 | Tower of Hanoi (Recursive) | Basics | O(2^n) | [Lab 1](./Lab_1_AlgorithmsBasics.ipynb) |
 | 9 | 12 Jan 2026 | Tower of Hanoi (Iterative) | Basics | O(2^n) | [Lab 1](./Lab_1_AlgorithmsBasics.ipynb) |
 | 10 | 12 Jan 2026 | Bubble Sort | Sorting | O(n²) | [Lab 1](./Lab_1_AlgorithmsBasics.ipynb) |
-
 | 11 | 19 Jan 2026 | Multiplication (Repeated Addition) | Basics | O(n) | [Lab 2](./Lab_2_AlgorithmsBasics.ipynb) |
 | 12 | 19 Jan 2026 | Power Function (Iterative) | Basics | O(n) | [Lab 2](./Lab_2_AlgorithmsBasics.ipynb) |
 | 13 | 19 Jan 2026 | Sum of Digits | Basics | O(log n) | [Lab 2](./Lab_2_AlgorithmsBasics.ipynb) |
@@ -116,33 +115,26 @@
 | 21 | 19 Jan 2026 | Linear Search | Searching | O(n) | [Lab 2](./Lab_2_AlgorithmsBasics.ipynb) |
 | 22 | 19 Jan 2026 | Binary Search (Iterative) | Searching | O(log n) | [Lab 2](./Lab_2_AlgorithmsBasics.ipynb) |
 | 23 | 19 Jan 2026 | Binary Search (Recursive) | Searching | O(log n) | [Lab 2](./Lab_2_AlgorithmsBasics.ipynb) |
-
 | 24 | 02 Feb 2026 | Time Complexity O(1) | Complexity | O(1) | [Lab 3](./Lab_3_Growth_of_function.ipynb) |
 | 25 | 02 Feb 2026 | Time Complexity O(n) | Complexity | O(n) | [Lab 3](./Lab_3_Growth_of_function.ipynb) |
 | 26 | 02 Feb 2026 | Time Complexity O(log n) | Complexity | O(log n) | [Lab 3](./Lab_3_Growth_of_function.ipynb) |
 | 27 | 02 Feb 2026 | Time Complexity O(n log n) | Complexity | O(n log n) | [Lab 3](./Lab_3_Growth_of_function.ipynb) |
 | 28 | 02 Feb 2026 | Time Complexity Polynomial | Complexity | O(n^c) | [Lab 3](./Lab_3_Growth_of_function.ipynb) |
 | 29 | 02 Feb 2026 | Time Complexity Exponential | Complexity | O(c^n) | [Lab 3](./Lab_3_Growth_of_function.ipynb) |
-
 | 30 | 16 Feb 2026 | Linear Search | Searching | O(n) | [Lab 4](./lab_4.ipynb) |
 | 31 | 16 Feb 2026 | Binary Search | Searching | O(log n) | [Lab 4](./lab_4.ipynb) |
 | 32 | 16 Feb 2026 | Naive String Matching (Pattern Searching) | Strings | O(n*m) | [Lab 4](./lab_4.ipynb) |
 | 33 | 16 Feb 2026 | Insertion Sort | Sorting | O(n²) | [Lab 4](./lab_4.ipynb) |
-
 | 34 | 23 Feb 2026 | Selection Sort | Sorting | O(n²) | [Lab 5](./Lab_5.ipynb) |
 | 35 | 23 Feb 2026 | Merge Sort | Sorting | O(n log n) | [Lab 5](./Lab_5.ipynb) |
 | 36 | 23 Feb 2026 | Quick Sort | Sorting | O(n log n) | [Lab 5](./Lab_5.ipynb) |
-
 | 37 | 23 Feb 2026 | Counting Sort | Sorting | O(n+k) | [Lab 6](./Lab_6.ipynb) |
 | 38 | 23 Feb 2026 | Radix Sort | Sorting | O(nk) | [Lab 6](./Lab_6.ipynb) |
 | 39 | 23 Feb 2026 | Bucket Sort | Sorting | O(n+k) | [Lab 6](./Lab_6.ipynb) |
-
 | 40 | 16 Mar 2026 | Fractional Knapsack | Greedy | O(n log n) | [Lab 7](./Lab_7.ipynb) |
 | 41 | 16 Mar 2026 | Huffman Coding | Greedy | O(n log n) | [Lab 7](./Lab_7.ipynb) |
-
 | 42 | 23 Mar 2026 | Prim’s Algorithm | Graph | O(V²) | [Lab 8](./Lab_8.ipynb) |
 | 43 | 23 Mar 2026 | Kruskal’s Algorithm | Graph | O(E log E) | [Lab 8](./Lab_8.ipynb) |
-
 | 44 | 06 Apr 2026 | Dijkstra Algorithm | Graph | O(V²) | [Lab 9](./Lab_9.ipynb) |
 
 ---

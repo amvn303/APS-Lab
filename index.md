@@ -1,4 +1,4 @@
-# APS Lab + LeetCode Problem Index (Chronological)
+# APS Lab 
 
 ---
 

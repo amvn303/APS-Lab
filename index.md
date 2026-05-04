@@ -12,7 +12,12 @@
 | Lab 6 | 23 Feb 2026 | Non-Comparison Sorting | [Lab 6](./Lab_6.ipynb) |
 | Lab 7 | 16 Mar 2026 | Greedy Algorithms | [Lab 7](./Lab_7.ipynb) |
 | Lab 8 | 23 Mar 2026 | Minimum Spanning Tree | [Lab 8](./Lab_8.ipynb) |
-| Lab 9 | 06 Apr 2026 | Shortest Path | [Lab 9](./Lab_9.ipynb) |
+| Lab 9 | 06 Apr 2026 | Dijkstra Algorithm | [Lab 9](./Lab_9.ipynb) |
+| Lab 10 | 13 Apr 2026 | Warshall Algorithm (Reachability) | [Lab 10](./Lab_10.ipynb) |
+| Lab 11 | 20 Apr 2026 | Travelling Salesman Problem (DP) | [Lab 11](./Lab_11.ipynb) |
+| Lab 12 | 27 Apr 2026 | Matrix Chain Multiplication | [Lab 12](./Lab_12.ipynb) |
+
+
 
 ## APS Lab Questions
 
@@ -136,6 +141,9 @@
 | 42 | 23 Mar 2026 | Prim’s Algorithm | Graph | O(V²) | [Lab 8](./Lab_8.ipynb) |
 | 43 | 23 Mar 2026 | Kruskal’s Algorithm | Graph | O(E log E) | [Lab 8](./Lab_8.ipynb) |
 | 44 | 06 Apr 2026 | Dijkstra Algorithm | Graph | O(V²) | [Lab 9](./Lab_9.ipynb) |
+| 45 | 13 Apr 2026 | Lab 10 | Warshall Algorithm |
+| 46 | 20 Apr 2026 | Lab 11 | Travelling Salesman Problem (DP) |
+| 47 | 27 Apr 2026 | Lab 12 | Matrix Chain Multiplication |
 
 ---
 

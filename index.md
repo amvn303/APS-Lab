@@ -90,6 +90,32 @@
 | 63 | 10 Apr 2026 | Max Size After Removals | LeetCode | Greedy | O(n) | https://leetcode.com/problems/maximum-size-of-a-set-after-removals/ |
 | 64 | 11 Apr 2026 | Min Distance (3 Equal) | LeetCode | Arrays | O(n) | https://leetcode.com/problems/minimum-distance-between-equal-elements/ |
 | 65 | 12 Apr 2026 | Min Distance Typing | LeetCode | DP | O(n * 26 * 26) | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |
+| 66 | 13 Apr 2026 | Warshall Algorithm (Reachability) | Lab | Graph | O(n³) | [Lab 10](./Lab_10.ipynb) |
+| 67 | 15 Apr 2026 | Pascal's Triangle | LeetCode | Arrays | O(n²) | https://leetcode.com/problems/pascals-triangle/ |
+| 68 | 15 Apr 2026 | Majority Element | LeetCode | Arrays | O(n) | https://leetcode.com/problems/majority-element/ |
+| 69 | 15 Apr 2026 | Shortest Distance to Target | LeetCode | Arrays | O(n) | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ |
+
+| 70 | 20 Apr 2026 | Travelling Salesman Problem (DP) | Lab | Dynamic Programming | O(n² * 2ⁿ) | [Lab 11](./Lab_11.ipynb) |
+| 71 | 20 Apr 2026 | Two Furthest Houses | LeetCode | Arrays | O(n²) | https://leetcode.com/problems/two-furthest-houses-with-different-colors/ |
+
+| 72 | 22 Apr 2026 | Next Greater Element IV | LeetCode | Stack | O(n) | https://leetcode.com/problems/next-greater-element-iv/ |
+| 73 | 22 Apr 2026 | Destroy Sequential Targets | LeetCode | Hashing | O(n) | https://leetcode.com/problems/destroy-sequential-targets/ |
+| 74 | 22 Apr 2026 | Words Within Two Edits | LeetCode | Strings | O(n*m) | https://leetcode.com/problems/words-within-two-edits-of-dictionary/ |
+| 75 | 22 Apr 2026 | Binary Prefix Divisible by 5 | LeetCode | Arrays | O(n) | https://leetcode.com/problems/binary-prefix-divisible-by-5/ |
+
+| 76 | 25 Apr 2026 | Sum of Distances | LeetCode | Graph | O(n) | https://leetcode.com/problems/sum-of-distances/ |
+
+| 77 | 26 Apr 2026 | Boats to Save People | LeetCode | Greedy | O(n log n) | https://leetcode.com/problems/boats-to-save-people/ |
+| 78 | 26 Apr 2026 | Maximum Number of Removals | LeetCode | Binary Search | O(n log n) | https://leetcode.com/problems/maximum-number-of-removable-characters/ |
+| 79 | 26 Apr 2026 | Minimize Maximum Pair Difference | LeetCode | Binary Search | O(n log n) | https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/ |
+| 80 | 26 Apr 2026 | Daily Temperatures | LeetCode | Stack | O(n) | https://leetcode.com/problems/daily-temperatures/ |
+
+| 81 | 27 Apr 2026 | Check if There is a Valid Partition | LeetCode | DP | O(n) | https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ |
+| 82 | 27 Apr 2026 | Matrix Chain Multiplication | Lab | Dynamic Programming | O(n³) | [Lab 12](./Lab_12.ipynb) |
+
+| 83 | 28 Apr 2026 | Minimum Operations to Make Array Equal II | LeetCode | Greedy | O(n) | https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/ |
+
+| 84 | 30 Apr 2026 | Maximum Score From Operations | LeetCode | DP | O(n) | https://leetcode.com/problems/maximum-score-from-operations/ |
 
 ---
 
@@ -171,4 +197,30 @@
 | 18 | 09 Apr 2026 | Count Primes | Math | O(n log log n) | https://leetcode.com/problems/count-primes/ |
 | 19 | 10 Apr 2026 | Max Size After Removals | Greedy | O(n) | https://leetcode.com/problems/maximum-size-of-a-set-after-removals/ |
 | 20 | 11 Apr 2026 | Min Distance (3 Equal) | Arrays | O(n) | https://leetcode.com/problems/minimum-distance-between-equal-elements/ |
-| 21 | 12 Apr 2026 | Min Distance Typing | DP | O(n * 26 * 26) | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |
+| 21 | 12 Apr 2026 | Minimum Distance to Type a Word Using Two Fingers | DP | O(n * 26 * 26) | https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/ |
+
+| 22 | 13 Apr 2026 | Minimum Distance to the Target Element | Arrays | O(n) | https://leetcode.com/problems/minimum-distance-to-the-target-element/ |
+| 23 | 14 Apr 2026 | Search in Rotated Sorted Array | Binary Search | O(log n) | https://leetcode.com/problems/search-in-rotated-sorted-array/ |
+| 24 | 15 Apr 2026 | Pascal's Triangle | Arrays | O(n²) | https://leetcode.com/problems/pascals-triangle/ |
+| 25 | 15 Apr 2026 | Majority Element | Arrays | O(n) | https://leetcode.com/problems/majority-element/ |
+| 26 | 15 Apr 2026 | Shortest Distance to Target String in Circular Array | Arrays | O(n) | https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/ |
+
+| 27 | 20 Apr 2026 | Two Furthest Houses With Different Colors | Arrays | O(n²) | https://leetcode.com/problems/two-furthest-houses-with-different-colors/ |
+
+| 28 | 22 Apr 2026 | Next Greater Element IV | Stack | O(n) | https://leetcode.com/problems/next-greater-element-iv/ |
+| 29 | 22 Apr 2026 | Destroy Sequential Targets | Hashing | O(n) | https://leetcode.com/problems/destroy-sequential-targets/ |
+| 30 | 22 Apr 2026 | Words Within Two Edits of Dictionary | Strings | O(n*m) | https://leetcode.com/problems/words-within-two-edits-of-dictionary/ |
+| 31 | 22 Apr 2026 | Binary Prefix Divisible By 5 | Arrays | O(n) | https://leetcode.com/problems/binary-prefix-divisible-by-5/ |
+
+| 32 | 25 Apr 2026 | Sum of Distances in Tree | Graph | O(n) | https://leetcode.com/problems/sum-of-distances-in-tree/ |
+
+| 33 | 26 Apr 2026 | Boats to Save People | Greedy | O(n log n) | https://leetcode.com/problems/boats-to-save-people/ |
+| 34 | 26 Apr 2026 | Maximum Number of Removable Characters | Binary Search | O(n log n) | https://leetcode.com/problems/maximum-number-of-removable-characters/ |
+| 35 | 26 Apr 2026 | Minimize the Maximum Difference of Pairs | Binary Search | O(n log n) | https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/ |
+| 36 | 26 Apr 2026 | Daily Temperatures | Stack | O(n) | https://leetcode.com/problems/daily-temperatures/ |
+
+| 37 | 27 Apr 2026 | Check if There is a Valid Partition for the Array | DP | O(n) | https://leetcode.com/problems/check-if-there-is-a-valid-partition-for-the-array/ |
+
+| 38 | 28 Apr 2026 | Minimum Operations to Make Array Equal II | Greedy | O(n) | https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/ |
+
+| 39 | 30 Apr 2026 | Maximum Score From Operations | DP | O(n) | https://leetcode.com/problems/maximum-score-from-operations/ |
